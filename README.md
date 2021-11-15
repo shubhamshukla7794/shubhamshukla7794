@@ -3,7 +3,7 @@
 </div>
 <br />
 
-### Hi, I'm <a href="https://shubhamshukla7794.github.io/">Shubham Kumar Shukla</a>, a Full Stack Developer from India.
+### Hi, I'm <a href="https://shubhamshukla7794.github.io/" target="_blank">Shubham Kumar Shukla</a>, a Full Stack Developer from India.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif" width="500" height="320" />
 
@@ -49,6 +49,6 @@
 
 <h3 align="left">Connect with me at :</h3>  
 <p align="left">  
-<a href="https://linkedin.com/in/shubhamshukla7794" target="blank"><img align="center" src="https://raw.githubusercontent.com/shubhamshukla7794/shubhamshukla7794.github.io/master/svgs/Linkedin.svg" alt="shubhamshukla7794" height="40" width="40" /></a>  
+<a href="https://linkedin.com/in/shubhamshukla7794" target="_blank"><img align="center" src="https://raw.githubusercontent.com/shubhamshukla7794/shubhamshukla7794.github.io/master/svgs/Linkedin.svg" alt="shubhamshukla7794" height="40" width="40" /></a>  
 <a href="mailto:shubhamshukla7794@gmail.com"><img align="center" src="https://raw.githubusercontent.com/shubhamshukla7794/shubhamshukla7794.github.io/master/svgs/Gmail_icon.svg" alt="shubhamshukla7794" height="30" width="40" /></a>
 </p>
