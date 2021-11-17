@@ -39,8 +39,8 @@
 <span><img align="center" src="https://raw.githubusercontent.com/shubhamshukla7794/shubhamshukla7794.github.io/master/svgs/Swim.svg" alt="swim" width="40" height="40"/> Swimming</span>
 <span><img align="center" src="https://raw.githubusercontent.com/shubhamshukla7794/shubhamshukla7794.github.io/master/svgs/TV.svg" alt="tv" width="40" height="40"/> Watching Movies</span>
 <span><img align="center" src="https://raw.githubusercontent.com/shubhamshukla7794/shubhamshukla7794.github.io/master/svgs/Train.svg" alt="train" width="40" height="40"/> Travelling</span>
-<p><span><img align="center" src="https://raw.githubusercontent.com/shubhamshukla7794/shubhamshukla7794.github.io/master/svgs/Book.svg" alt="book" width="40" height="40"/> Reading</span>
-<span><img align="center" src="https://raw.githubusercontent.com/shubhamshukla7794/shubhamshukla7794.github.io/master/svgs/Brush.svg" alt="train" width="40" height="40"/> Drawing and Painting</span></p>
+<span><img align="center" src="https://raw.githubusercontent.com/shubhamshukla7794/shubhamshukla7794.github.io/master/svgs/Book.svg" alt="book" width="40" height="40"/> Reading</span>
+<span><img align="center" src="https://raw.githubusercontent.com/shubhamshukla7794/shubhamshukla7794.github.io/master/svgs/Brush.svg" alt="train" width="40" height="40"/> Drawing and Painting</span>
 <br>
 
 <h3 align="left">Top Languages :</h3>
