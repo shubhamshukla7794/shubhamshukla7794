@@ -16,7 +16,7 @@
 
 <br />
 
-📝Download my [**Resume**](https://shubhamshukla7794.github.io/assest/Shubham%20Kumar%20Shukla%20Resume.pdf)
+📝Download my [**Resume**](https://github.com/shubhamshukla7794/shubhamshukla7794.github.io/blob/979a50264560cbb482dd4ba9ccf01445fb7293cd/assest/Shubham%20Kumar%20Shukla%20Resume.pdf)
 <h3 align="left">Languages and Tools :</h3>
 <h4 align="left">Programming Languages</h4>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
