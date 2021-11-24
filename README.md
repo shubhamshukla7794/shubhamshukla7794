@@ -9,9 +9,9 @@
 
 **Let's look at what am I doing right now:**
 
-- I’m currently doing certification [**E&ICT IIT Roorkee: Advanced Certificate Program in Full Stack Software Development**](https://www.greatlearning.in/advanced-certification-full-stack-software-development-iit-roorkee)
+- I’m currently doing [**E&ICT IIT Roorkee: Advanced Certificate Program in Full Stack Software Development**](https://www.greatlearning.in/advanced-certification-full-stack-software-development-iit-roorkee) certification
 
-- I have recently done a course of [**Spring Framework 5: Beginner to Guru**](https://www.udemy.com/spring-framework-5-beginner-to-guru) from [**Udemy**](https://www.udemy.com).
+- I have recently done a course of [**Spring Framework 5: Beginner to Guru**](https://www.udemy.com/spring-framework-5-beginner-to-guru) from [**Udemy**](https://www.udemy.com)
 
 
 <br />
