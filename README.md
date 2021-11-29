@@ -2,6 +2,7 @@
 <h1 align="center">	&lt;Hello 👋,  Everyone/&gt;</h1>
 </div>
 <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamshukla7794&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamshukla7794" /> </p>
 
 ### Hi, I'm <a href="https://shubhamshukla7794.github.io/" target="_blank">Shubham Kumar Shukla</a>, a Full Stack Developer from India.
 
