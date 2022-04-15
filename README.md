@@ -14,6 +14,8 @@
 
 - I have recently done a course of [**Spring Framework 5: Beginner to Guru**](https://www.udemy.com/spring-framework-5-beginner-to-guru) from [**Udemy**](https://www.udemy.com)
 
+- I am meanwhile converting my old project [ShoppersHubMain](https://github.com/shubhamshukla7794/ShoppersHubMain) to a Spring Boot MVC project [ShoppersHub-Spring-Boot](https://github.com/shubhamshukla7794/ShoppersHub-Spring-Boot) 
+
 
 <br />
 
